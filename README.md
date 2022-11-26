@@ -1,0 +1,2 @@
+# Ba-lang-
+ilk denemelerim
